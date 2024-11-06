@@ -17,3 +17,9 @@
 ### Frontend 
 - [ ] Frontend mappában: 
   -  <b>npm create vite@latest</b>
+
+### Backend előkészületek
+- [ ] backend mappában: 
+  - <b>server.js</b> állomány létrehozása, mappastruktúra létrehozása  
+  - 1 <b>touch server.js</b>
+  - 2 <b>mkdir public views models middlewares utils controllers routes</b>
